@@ -12,3 +12,5 @@ You may want to abstain from GPL:
 ### pip install clean-text
 
 Note:- This package is named clean-text and not cleantext.
+
+Thank you so much for your time! Please support by rating this!
